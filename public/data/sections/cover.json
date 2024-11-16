@@ -1,0 +1,250 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Sohan Patil!**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {}
+            },
+
+            "items": [
+                {
+                    "value": "Boston – MA",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "sohan.patil98@gmail.com",
+                    "links": [
+                        {"href": "mailto:sohan.patil98@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@roarceus",
+                    "links": [
+                        {"href": "https://github.com/roarceus"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"text": "<p>I’m a Full Stack developer with <b>2.5+ years</b> of experience, specializing in frontend development with some backend work as well. I'm also proficient in Python and C++, with hands-on experience in AWS infrastructure using Terraform.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "testimonials",
+            "component": "ArticleTestimonials",
+            "config": {},
+            "locales": {
+                "en": {"title": "Testimonials"}
+            },
+
+            "items": [
+                {
+                    "value": "Makarand Chawan",
+                    "links": [
+                        {"href": "https://linkedin.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-3.png",
+                        "fa": "fa-solid fa-user",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Senior Manager at <b>Capgemini</b>",
+                            "text": "Working with Sohan was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Poonam Pawar",
+                    "links": [
+                        {"href": "https://linkedin.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-1.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Lead Developer at <b>Capgemini</b>",
+                            "text": "Having Sohan on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Aditya Sapate",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/person-4.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Software Engineer at <b>The Sparks Foundation</b>",
+                            "text": "Collaborating with Sohan was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-user-astronaut",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Astronomy",
+                            "info": "Exploring the cosmos, one discovery at a time."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-gamepad",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Video Games",
+                            "info": "Leveling up creativity, one game at a time."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-plane",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Traveling",
+                            "info": "Chasing horizons, one adventure at a time."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-book",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Reading",
+                            "info": "Turning pages, discovering worlds."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-pencil-alt",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "UX design",
+                            "info": "Studying user experience principles."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-camera-retro",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Photo editing",
+                            "info": "Enhancing photos through creative editing techniques."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
