@@ -8,5 +8,14 @@
         }
     },
 
-    "articles": []
+    "articles": [
+        {
+            "id": "certifications",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": { "title": "Certifications" }
+            }
+        }
+    ]
 }
