@@ -99,6 +99,62 @@
                     }
                 }
             ]
+        },
+
+        {
+            "id": "awards",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Awards" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "05/01/2022",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**Star Award**",
+                            "info": "Capgemini",
+                            "text": "Recognized for innovative work and performance on optimizing frontend and backend systems."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "10/01/2020",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "https://github.com/roarceus/nayamandi" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Best Final Year Project** – Machine Learning and Blockchain",
+                            "info": "University of Mumbai",
+                            "text": "Awarded for developing a machine learning algorithm for price prediction and integrating blockchain for payments."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "02/01/2017",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**1st Place** – ScienceFest",
+                            "info": "University of Mumbai",
+                            "text": "Secured 1st place for developing a heartbeat monitor in undergraduate science fest."
+                        }
+                    }
+                }
+            ]
         }
     ]
 }
