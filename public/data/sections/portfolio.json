@@ -1,0 +1,9 @@
+{
+    "locales": {
+        "en": {
+            "title": "Portfolio",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Portfolio**"
+        }
+    }
+}
