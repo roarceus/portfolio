@@ -1,0 +1,157 @@
+{
+    "locales": {
+        "en": {
+            "title": "Life recently",
+            "title_menu": "Updates",
+            "title_long_prefix": "Take a look at my",
+            "title_long": "Recent **Updates**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "fun_facts",
+            "component": "ArticleServices",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-code",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "20+",
+                            "info": "Web apps developed"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-star",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "100+",
+                            "info": "Stars on GitHub"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-globe",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "3",
+                            "info": "Countries visited"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-diagram-project",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "04",
+                            "info": "Open-source projects"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-coffee",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "20,000",
+                            "info": "Coffees consumed"
+                        }
+                    }
+                }
+
+            ]
+        },
+
+        {
+            "id": "updates",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Quick **Facts**" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "11/16/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_more", "href": "https://roarceus.github.io/portfolio/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Launched my **personal website**!",
+                            "text": "Created a personal website to showcase my projects, share my journey in programming, and provide resources for fellow developers."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "05/01/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Started my **LeetCode** journey!",
+                            "text": "Currently developing data structure skills through LeetCoding in JavaScript."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "04/22/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Completed **SafeHaven!**",
+                            "text": "Delivered SafeHaven, a MERN stack based refugee assistance portal developed for INFO6150 at Northeastern University."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "12/29/2023",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Relocated to **USA!**",
+                            "text": "Successfully transitioned to Boston to start my Master's in Information Systems and explore new career opportunities in the tech industry, leveraging the vibrant local ecosystem to enhance my professional growth."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

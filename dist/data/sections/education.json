@@ -1,0 +1,60 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/uni-mumbai.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "08/01/2016",
+                        "end": "10/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Bachelor's** in Computer Engineering",
+                            "info": "University of Mumbai",
+                            "text": "<p>Completed a comprehensive Bachelor's program focused on cutting-edge computer science topics, including:</p> <ul><li>Web Development</li><li>Data Structure & Algorithms</li><li>Object Oriented Programming</li><li>Machine Learning & AI</li><li>NLP</li></ul> <p class='mt-3'>Applied practical and theory to develop industry driven solutions, combining academic excellence with real-world innovation.</p>",
+                            "tags": ["Web Development", "Data Structures", "Algorithms", "Machine Learning", "NLP", "AI"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/uni-northeastern.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2024",
+                        "end": "12/01/2025"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Master's** in Information Systems",
+                            "info": "Northeastern University",
+                            "text": "<p>Currently pursuing a Master's in Information Systems with a focus on full-stack development and its real-world applications, particularly in:</p> <ul><li>Web Application Development</li><li>Cloud Computing and Infrastructure</li><li>Data Structure & Algorithms</li></ul> <p class='mt-3'>Engaged in cutting-edge practical applications and contributing to the industry by maintaining industry standards.</p>",
+                            "tags": ["Full-Stack Development", "Cloud Infrastructure", "Data Structure", "Algorithms", "UI/UX Designing"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

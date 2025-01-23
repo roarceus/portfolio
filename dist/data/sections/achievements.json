@@ -1,0 +1,160 @@
+{
+    "locales": {
+        "en": {
+            "title": "Awards",
+            "title_menu": "Achievements",
+            "title_long_prefix": "Here are my",
+            "title_long": "Career **Achievements**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "certifications",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": { "title": "Certifications" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-react",
+                        "faColors": {"bg": "#61DAFB", "fill": "#111"}
+                    },
+                    "dates": {
+                        "start": "07/01/2020",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.coursera.org/account/accomplishments/specialization/certificate/5XRZB6QFVVFU" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Web Applications** Specialization",
+                            "text": "Certified Web Developer"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {"bg": "#306998", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "07/01/2020",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.coursera.org/account/accomplishments/certificate/XC2RWLPBUF5E" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Python** Data Structures",
+                            "text": "Certified Python Developer"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-js",
+                        "faColors": {"bg": "#F7DF1E", "fill": "#111"}
+                    },
+                    "dates": {
+                        "start": "07/01/2020",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.coursera.org/account/accomplishments/certificate/3KR4HYXALV7C" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**JavaScript**",
+                            "text": "Certified JavaScript Developer"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-database",
+                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "08/01/2020",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.coursera.org/account/accomplishments/certificate/TQJ8QEGW5ELW" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Database** using Python",
+                            "text": "Certified Database Admin"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "awards",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Awards" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "05/01/2022",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**Star Award**",
+                            "info": "Capgemini",
+                            "text": "Recognized for innovative work and performance on optimizing frontend and backend systems."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "10/01/2020",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "https://github.com/roarceus/nayamandi" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Best Final Year Project** – Machine Learning and Blockchain",
+                            "info": "University of Mumbai",
+                            "text": "Awarded for developing a machine learning algorithm for price prediction and integrating blockchain for payments."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "02/01/2017",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**1st Place** – ScienceFest",
+                            "info": "University of Mumbai",
+                            "text": "Secured 1st place for developing a heartbeat monitor in undergraduate science fest."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
