@@ -33,6 +33,42 @@
                         "en": {"singular": "Utility", "plural": "Utilities"}
                     }
                 }
+            ],
+
+            "items": [
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/safehaven_light.png",
+                        "fa": "",
+                        "faColors": {"bg": "#ff8c00", "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/SafeHaven"}
+                    ],
+
+                    "media": {
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/safehaven-screenshot-1.png",
+                                "images/pictures/safehaven-screenshot-2.png",
+                                "images/pictures/safehaven-screenshot-3.png",
+                                "images/pictures/safehaven-screenshot-4.png",
+                                "images/pictures/safehaven-screenshot-5.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "SafeHaven",
+                            "text": "A <b>MERN</b> stack based website, designed to assist refugees in finding suitable camps and accessing necessary resources.",
+                            "tags": ["MERN", "RESTful", "Full-Stack"]
+                        }
+                    }
+                }
             ]
         }
     ]
