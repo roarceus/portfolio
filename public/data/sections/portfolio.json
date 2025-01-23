@@ -39,7 +39,7 @@
                 {
                     "categoryId": "websites",
                     "icon": {
-                        "img": "images/pictures/safehaven_light.png",
+                        "img": "images/pictures/safehaven-light.png",
                         "fa": "",
                         "faColors": {"bg": "#ff8c00", "fill": null}
                     },
