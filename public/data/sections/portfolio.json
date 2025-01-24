@@ -68,6 +68,37 @@
                             "tags": ["MERN", "RESTful", "Full-Stack"]
                         }
                     }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/aws.webp",
+                        "fa": "",
+                        "faColors": {"bg": "#fff", "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/terraform-aws-iac"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/webapp-for-terraform-aws-iac"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/faas-for-terraform-aws-iac"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "AWS IaaS for WebApp",
+                            "text": "A cloud architecture built with <b>Terraform</b>, to support a web application for user profile.",
+                            "tags": ["Terraform", "AWS", "GitHub Actions"]
+                        }
+                    }
                 }
             ]
         }
