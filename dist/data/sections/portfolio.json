@@ -73,7 +73,7 @@
                 {
                     "categoryId": "apps",
                     "icon": {
-                        "img": "images/pictures/aws.webp",
+                        "img": "images/pictures/aws-iaas.webp",
                         "fa": "",
                         "faColors": {"bg": "#fff", "fill": null}
                     },
@@ -97,6 +97,35 @@
                             "title": "AWS IaaS for WebApp",
                             "text": "A cloud architecture built with <b>Terraform</b>, to support a web application for user profile.",
                             "tags": ["Terraform", "AWS", "GitHub Actions"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/book-review-system.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/book-reviews-system-cloud-computing"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://www.youtube.com/watch?v=v_No_EWBK1M&ab_channel=projectpurpose",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Book Review System - Cloud Computing",
+                            "text": "A fully-featured book review web app developed with <b>Python</b>, enabling users to find books, rate, and write reviews. It offers <b>API</b> for Goodreads, which allows cross platform rating and reviews.",
+                            "tags": ["Python", "MySQL", "Heroku"]
                         }
                     }
                 }
