@@ -16,10 +16,10 @@
         "profilePictureUrl": "images/pictures/avatar.jpg",
 
         "locales": {
-            "en": {"role": "Web Developer"},
-            "es": {"role": "Desarrollador Web"},
-            "fr": {"role": "Développeur Web"},
-            "ko": {"role": "웹 개발자"}
+            "en": {"role": "Full-Stack Developer"},
+            "es": {"role": "Desarrollador Full-Stack"},
+            "fr": {"role": "Développeur Full-Stack"},
+            "ko": {"role": "풀스택 개발자"}
         }
     },
 
@@ -28,10 +28,10 @@
         "available": true,
 
         "locales": {
-            "en": {"message": "Available for freelance!"},
-            "es": {"message": "¡Disponible para freelance!"},
-            "fr": {"message": "Disponible pour freelance !"},
-            "ko": {"message": "프리랜스 가능합니다!"}
+            "en": {"message": "Available for co-op/internship!"},
+            "es": {"message": "¡Disponible para cooperativa/pasantía!"},
+            "fr": {"message": "Disponible pour un stage/coopérative !"},
+            "ko": {"message": "코옵/인턴십 가능!"}
         }
     },
 
