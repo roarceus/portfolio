@@ -128,6 +128,35 @@
                             "tags": ["Python", "MySQL", "Heroku"]
                         }
                     }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/credit-management.png",
+                        "fa": "",
+                        "faColors": {"bg": "#fff", "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/php-credit-management"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "https://www.youtube.com/watch?v=tj-XK6wsSqI&ab_channel=SohanPatil",
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Credit Management System",
+                            "text": "A <b>CRUD</b> application to simulate a credit management system, built with <b>PHP</b> and <b>MySQL</b>.",
+                            "tags": ["PHP", "MySQL", "CSS3"]
+                        }
+                    }
                 }
             ]
         }
