@@ -95,7 +95,7 @@
                     "locales": {
                         "en": {
                             "title": "AWS IaaS for WebApp",
-                            "text": "A cloud architecture built with <b>Terraform</b>, to support a web application for user profile.",
+                            "text": "A cloud architecture built with <b>Terraform</b> supporting a web application for user profile. The WebApp is a backend application built using <b>Node.js</b> and utilizes <b>Serverless</b> functions to authenticate users via email.",
                             "tags": ["Terraform", "AWS", "GitHub Actions"]
                         }
                     }
@@ -155,6 +155,35 @@
                             "title": "Credit Management System",
                             "text": "A <b>CRUD</b> application to simulate a credit management system, built with <b>PHP</b> and <b>MySQL</b>.",
                             "tags": ["PHP", "MySQL", "CSS3"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/kounsellor.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/kounsellor-counselling-website"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Kounsellor - Counselling Website",
+                            "text": "A counselling website built with <b>PHP</b> which features user management system.",
+                            "tags": ["PHP", "CSS3", "HTML5"]
                         }
                     }
                 }
