@@ -37,7 +37,7 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "100+",
+                            "title": "8",
                             "info": "Stars on GitHub"
                         }
                     }
@@ -96,7 +96,7 @@
             "items": [
                 {
                     "dates": {
-                        "start": "11/16/2024",
+                        "start": "01/22/2025",
                         "end": null
                     },
                     "links": [
@@ -112,10 +112,44 @@
 
                 {
                     "dates": {
+                        "start": "12/15/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_more", "href": "https://github.com/roarceus/terraform-aws-iac" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Completed **AWS IaaS for WebAPP**!",
+                            "text": "Delivered AWS based cloud infrastructure to support a Node.js based web application, utilizing Terraform for infrastructure as code."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "11/20/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_more", "href": "https://sohanpatil.framer.website/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Launched my **design portfolio**!",
+                            "text": "Created a design portfolio using Figma and Framer to showcase information about myself, including my skills and projects. This portfolio was developed for CSYE7280 at Northeastern University."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
                         "start": "05/01/2024",
                         "end": null
                     },
-                    "links": [],
+                    "links": [
+                        { "string": "see_more", "href": "https://leetcode.com/u/roarceus/" }
+                    ],
                     "locales": {
                         "en": {
                             "title": "Started my **LeetCode** journey!",
@@ -129,7 +163,9 @@
                         "start": "04/22/2024",
                         "end": null
                     },
-                    "links": [],
+                    "links": [
+                        { "string": "see_more", "href": "https://github.com/roarceus/SafeHaven" }
+                    ],
                     "locales": {
                         "en": {
                             "title": "Completed **SafeHaven!**",
