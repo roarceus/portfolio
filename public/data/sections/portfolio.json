@@ -215,6 +215,35 @@
                             "tags": ["HTML5", "CSS3", "SCSS"]
                         }
                     }
+                },
+
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/maps-clone.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/google-maps-clone"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Google Maps Clone",
+                            "text": "A simple frontend application to clone Google Maps using Mapbox API.",
+                            "tags": ["JavaScript", "HTML5", "Mapbox"]
+                        }
+                    }
                 }
             ]
         }
