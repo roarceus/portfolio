@@ -244,6 +244,64 @@
                             "tags": ["JavaScript", "HTML5", "Mapbox"]
                         }
                     }
+                },
+
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/meeting-notes-react.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/meeting-notes-react"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Meeting Notes using React",
+                            "text": "A dynamic meeting notes application where the user can create new notes or view existing ones!",
+                            "tags": ["MERN", "TypeScript", "HTML5/CSS3"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/meeting-notes.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/meeting-notes"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Meeting Notes",
+                            "text": "A static meeting notes application where the user can create new notes or view existing ones!",
+                            "tags": ["JavaScript", "SCSS", "HTML5"]
+                        }
+                    }
                 }
             ]
         }
