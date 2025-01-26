@@ -186,6 +186,35 @@
                             "tags": ["PHP", "CSS3", "HTML5"]
                         }
                     }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/travel-website.png",
+                        "fa": "",
+                        "faColors": {"bg": "#fff", "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/travel-website"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Travel Website",
+                            "text": "A <b>frontend</b> travel website where users can choose to travel to many destinations.",
+                            "tags": ["HTML5", "CSS3", "SCSS"]
+                        }
+                    }
                 }
             ]
         }
