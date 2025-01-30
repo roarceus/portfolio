@@ -302,6 +302,35 @@
                             "tags": ["JavaScript", "SCSS", "HTML5"]
                         }
                     }
+                },
+
+                {
+                    "categoryId": "utilities",
+                    "icon": {
+                        "img": "images/pictures/analog-clock.webp",
+                        "fa": "",
+                        "faColors": {"bg": "#fff", "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/analog-clock"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Analog Clock",
+                            "text": "A simple analog clock using vaniilla JS! Switch between light and dark mode, and change background depending on time.",
+                            "tags": ["JavaScript", "CSS3", "HTML5"]
+                        }
+                    }
                 }
             ]
         }
