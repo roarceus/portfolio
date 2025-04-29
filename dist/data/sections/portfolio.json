@@ -37,6 +37,35 @@
 
             "items": [
                 {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/askTrace-logo.png",
+                        "fa": "",
+                        "faColors": {"bg": "#fff", "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/trace-survey-analysis"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "askTRACE",
+                            "text": "An end-to-end system designed to process, analyze, and extract insights from <b>Teacher Rating And Course Evaluation (TRACE)</b> survey data using AI and cloud-native technologies.",
+                            "tags": ["Go & Python", "Kubernetes w/ Helm", "GCP & AWS"]
+                        }
+                    }
+                },
+                
+                {
                     "categoryId": "websites",
                     "icon": {
                         "img": "images/pictures/safehaven-light.png",
@@ -79,9 +108,7 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/terraform-aws-iac"},
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/webapp-for-terraform-aws-iac"},
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/faas-for-terraform-aws-iac"}
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/user-profile-terraform-iac"}
                     ],
 
                     "media": {
