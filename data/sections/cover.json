@@ -22,7 +22,7 @@
 
             "items": [
                 {
-                    "value": "Boston – MA",
+                    "value": "Boston - MA",
                     "links": [
                         {"href": null}
                     ],
@@ -73,7 +73,7 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"text": "<p>I’m a Full Stack developer with <b>2.5+ years</b> of experience, specializing in frontend development with some backend work as well. I'm also proficient in Python and C++, with hands-on experience in AWS infrastructure using Terraform.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"}
+                        "en": {"text": "<p>I'm a Full Stack developer with <b>2.5+ years</b> of experience, specializing in frontend development with some backend work as well. I'm also proficient in Python and Go with hands-on experience in AWS infrastructure using Terraform.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"}
                     }
                 }
             ]

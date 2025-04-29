@@ -28,10 +28,10 @@
         "available": true,
 
         "locales": {
-            "en": {"message": "Available for co-op/internship!"},
-            "es": {"message": "¡Disponible para cooperativa/pasantía!"},
-            "fr": {"message": "Disponible pour un stage/coopérative !"},
-            "ko": {"message": "코옵/인턴십 가능!"}
+            "en": {"message": "Mastering cloud-native technologies!"},
+            "es": {"message": "¡Dominando las tecnologías nativas de la nube!"},
+            "fr": {"message": "Maîtriser les technologies cloud natives !"},
+            "ko": {"message": "클라우드 네이티브 기술을 마스터하세요!"}
         }
     },
 
