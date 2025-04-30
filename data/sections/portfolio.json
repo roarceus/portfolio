@@ -131,6 +131,45 @@
                 {
                     "categoryId": "apps",
                     "icon": {
+                        "img": "images/pictures/neu-grade-calculator-logo.png",
+                        "fa": "",
+                        "faColors": {"bg": "#fff", "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/NEUGradeCalculator"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/neu-grade-calculator-screenshot-1.png",
+                                "images/pictures/neu-grade-calculator-screenshot-2.png",
+                                "images/pictures/neu-grade-calculator-screenshot-3.png",
+                                "images/pictures/neu-grade-calculator-screenshot-4.png",
+                                "images/pictures/neu-grade-calculator-screenshot-5.png",
+                                "images/pictures/neu-grade-calculator-screenshot-6.png",
+                                "images/pictures/neu-grade-calculator-screenshot-7.png",
+                                "images/pictures/neu-grade-calculator-screenshot-8.png",
+                                "images/pictures/neu-grade-calculator-screenshot-9.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Grade Calculator App",
+                            "text": "A comprehensive <b>JavaFX</b> application for Northeastern University College of Engineering students to track, calculate, and analyze their academic performance.",
+                            "tags": ["Java", "JavaFX", "SQLite"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
                         "img": "images/pictures/book-review-system.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
