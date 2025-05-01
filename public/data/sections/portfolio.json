@@ -49,10 +49,23 @@
                     ],
 
                     "media": {
-                        "youtubeVideo": null,
+                        "youtubeVideo": "https://www.youtube.com/watch?v=VntctukuTwA&ab_channel=SohanPatil",
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/asktrace-screenshot-1.png",
+                                "images/pictures/asktrace-screenshot-2.png",
+                                "images/pictures/asktrace-screenshot-3.png",
+                                "images/pictures/asktrace-screenshot-4.png",
+                                "images/pictures/asktrace-screenshot-5.png",
+                                "images/pictures/asktrace-screenshot-6.png",
+                                "images/pictures/asktrace-screenshot-7.png",
+                                "images/pictures/asktrace-screenshot-8.png",
+                                "images/pictures/asktrace-screenshot-9.png",
+                                "images/pictures/asktrace-screenshot-10.png",
+                                "images/pictures/asktrace-screenshot-11.png",
+                                "images/pictures/asktrace-screenshot-12.png"
+                            ]
                         }
                     },
 
