@@ -96,6 +96,22 @@
             "items": [
                 {
                     "dates": {
+                        "start": "01/26/2025",
+                        "end": "04/26/2025"
+                    },
+                    "links": [
+                        { "string": "see_more", "href": "https://github.com/trace-survey-analysis" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Launched **askTRACE**!",
+                            "text": "Delivered and launched a comprehensive platform for processing, analyzing, and extracting insights from TRACE survey data using AI and cloud-native technologies. This project was developed by TEAM03 for CSYE7125 at Northeastern University."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
                         "start": "01/22/2025",
                         "end": null
                     },
@@ -112,16 +128,16 @@
 
                 {
                     "dates": {
-                        "start": "12/15/2024",
-                        "end": null
+                        "start": "09/12/2024",
+                        "end": "12/15/2024"
                     },
                     "links": [
-                        { "string": "see_more", "href": "https://github.com/roarceus/terraform-aws-iac" }
+                        { "string": "see_more", "href": "https://github.com/user-profile-terraform-iac" }
                     ],
                     "locales": {
                         "en": {
                             "title": "Completed **AWS IaaS for WebAPP**!",
-                            "text": "Delivered AWS based cloud infrastructure to support a Node.js based web application, utilizing Terraform for infrastructure as code."
+                            "text": "Delivered AWS based cloud infrastructure to support a Node.js based web application, utilizing Terraform for infrastructure as code. This project was developed for CSYE6200 at Northeastern University."
                         }
                     }
                 },
@@ -160,8 +176,8 @@
 
                 {
                     "dates": {
-                        "start": "04/22/2024",
-                        "end": null
+                        "start": "03/17/2024",
+                        "end": "04/22/2024"
                     },
                     "links": [
                         { "string": "see_more", "href": "https://github.com/roarceus/SafeHaven" }
