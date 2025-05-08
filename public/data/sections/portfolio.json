@@ -39,7 +39,7 @@
                 {
                     "categoryId": "apps",
                     "icon": {
-                        "img": "images/pictures/askTrace-logo.png",
+                        "img": "images/pictures/asktrace-logo.png",
                         "fa": "",
                         "faColors": {"bg": "#fff", "fill": null}
                     },
@@ -177,6 +177,35 @@
                             "title": "Grade Calculator App",
                             "text": "A comprehensive <b>JavaFX</b> application for Northeastern University College of Engineering students to track, calculate, and analyze their academic performance.",
                             "tags": ["Java", "JavaFX", "SQLite"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/huskyhub-logo.webp",
+                        "fa": "",
+                        "faColors": {"bg": "#fff", "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/roarceus/HuskyHub"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "HuskyHub",
+                            "text": "A comprehensive <b>Java Swing</b> application integrated with DB4O for database operations, designed to create a collaborative system supporting the well-being of students at a university and provide them homely housing experience.",
+                            "tags": ["Java", "Java Swing", "DB4O"]
                         }
                     }
                 },
