@@ -96,6 +96,22 @@
             "items": [
                 {
                     "dates": {
+                        "start": "06/26/2025",
+                        "end": "12/19/2025"
+                    },
+                    "links": [
+                        { "string": "see_more", "href": "https://www.mastercontrol.com/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Joined **MasterControl** as a **DevOps Intern**!",
+                            "text": "Started my internship at MasterControl, where I am contributing to the development and maintenance of robust DevOps pipelines and cloud infrastructure to support the company's software solutions."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
                         "start": "01/26/2025",
                         "end": "04/26/2025"
                     },
