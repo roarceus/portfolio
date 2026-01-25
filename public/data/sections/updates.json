@@ -37,7 +37,7 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "8",
+                            "title": "10",
                             "info": "Stars on GitHub"
                         }
                     }
@@ -94,6 +94,19 @@
             },
 
             "items": [
+                {
+                    "dates": {
+                        "start": "01/01/2026",
+                        "end": "04/01/2026"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Started Teaching Assistantship for **Cloud Computing** at **Northeastern University**",
+                            "text": "Started my Teaching Assistantship for CSYE 6225 (Network Structures & Cloud Computing), supporting course instruction, guiding students on cloud architectures, networking fundamentals, and hands-on AWS-based assignments."
+                        }
+                    }
+                },
+
                 {
                     "dates": {
                         "start": "06/26/2025",
