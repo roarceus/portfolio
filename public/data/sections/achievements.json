@@ -112,6 +112,20 @@
             "items": [
                 {
                     "dates": {
+                        "start": "12/01/2025",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "**Labs Intern Award**",
+                            "info": "MasterControl",
+                            "text": "Recognized for outstanding contributions and performance during my DevOps co-op."
+                        }
+                    }
+                },
+                {
+                    "dates": {
                         "start": "05/01/2022",
                         "end": null
                     },
