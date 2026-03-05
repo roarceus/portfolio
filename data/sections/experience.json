@@ -27,9 +27,9 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**DevOps Engineer** Co-op",
+                            "title": "**DevOps Engineer**",
                             "info": "MasterControl",
-                            "text": "Working with DevOps and development teams to optimize CI/CD infrastructure and Kubernetes deployments across the organization. Led initiatives to improve pipeline efficiency through intelligent caching strategies, reducing infrastructure costs and deployment times. Architected automation solutions using TypeScript, Docker, and Kubernetes while providing enterprise-wide support to ensure reliable and scalable software delivery.",
+                            "text": "At MasterControl, I worked at the intersection of DevOps, platform engineering, and developer productivity. My focus was building scalable infrastructure and automation that enabled engineering teams to ship software faster and more reliably. I designed and maintained CI/CD pipelines, optimized build systems, and managed Kubernetes-based environments used across multiple development teams. Much of my work involved creating internal tooling and automation using TypeScript, Docker, and Kubernetes to simplify complex deployment workflows. I also collaborated closely with developers to troubleshoot pipelines, improve reliability, and standardize processes across repositories and environments, helping teams focus more on building products rather than managing infrastructure.",
                             "tags": ["Kubernetes", "Docker", "ArgoCD", "Helm", "Jenkins", "Artifactory", "GitHub", "TypeScript", "Gradle", "CI/CD", "DevOps"]
                         }
                     }
@@ -47,10 +47,10 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Full-Stack** Developer",
+                            "title": "**Software Engineer**",
                             "info": "Capgemini",
-                            "text": "<p>Working with a team of developers and testers to design and implement backend solutions for our client's services, with a focus on:</p> <ul><li>Security</li><li>Scalability to handle millions of users globally</li><li>Developing RESTful APIs</li><li>Optimizing database performance with PostgreSQL</li><li>Building services with Node.js, Python, and PowerShell</li></ul> <p class='mt-3'>Together, we ensure our client's backend infrastructure stays robust and efficient.</p>",
-                            "tags": ["React.js", "Node.js", "Express.js", "Python", "PostgreSQL", "Jenkins", "PowerShell", "RESTful APIs"]
+                            "text": "At Capgemini, I worked on backend and platform engineering for large-scale enterprise systems supporting healthcare and imaging technologies. I helped design and build CI/CD pipelines and deployment workflows using Jenkins, Git, and Terraform to reliably ship Dockerized services across multiple environments. My work also included developing RESTful APIs and internal dashboards with Node.js, Express, and React, while improving system performance through database optimizations with PostgreSQL and Redis caching. Beyond application development, I automated infrastructure and testing processes using Bash, Python, and Cypress, helping teams reduce manual effort and improve the reliability of both deployments and monitoring systems.",
+                            "tags": ["React.js", "Node.js", "Express.js", "Python", "PostgreSQL", "Jenkins", "Terraform", "Docker", "Cypress", "Redis", "CI/CD"]
                         }
                     }
                 },
