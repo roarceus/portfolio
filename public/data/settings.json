@@ -28,10 +28,10 @@
         "available": true,
 
         "locales": {
-            "en": {"message": "Mastering cloud-native technologies!"},
-            "es": {"message": "¡Dominando las tecnologías nativas de la nube!"},
-            "fr": {"message": "Maîtriser les technologies cloud natives !"},
-            "ko": {"message": "클라우드 네이티브 기술을 마스터하세요!"}
+            "en": {"message": "Open for full-time opportunities in Software Engineering and DevOps!"},
+            "es": {"message": "¡Se buscan candidatos a tiempo completo para puestos de Ingeniería de Software y DevOps!"},
+            "fr": {"message": "Nous recherchons des personnes pour des opportunités à temps plein en ingénierie logicielle et DevOps !"},
+            "ko": {"message": "소프트웨어 엔지니어링 및 DevOps 분야 정규직 채용 공고입니다!"}
         }
     },
 
